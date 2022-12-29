@@ -4,7 +4,7 @@ import TentsView from '../views/AccommodationsView.vue'
 import MainView from '../views/BookingsView.vue'
 
 const router = createRouter({
-  history: createWebHistory('/Camp.inc/'),
+  history: createWebHistory(import.meta.env.BASE_URL),
 
   routes: [
     {
