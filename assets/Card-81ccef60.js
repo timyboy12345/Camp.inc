@@ -1,0 +1,1 @@
+import{_ as s,o,c as a,b as r,t as n,h as c}from"./index-b7e74c7d.js";const d={name:"Card",props:{title:{type:String,required:!1,default:null}}},l={class:"bg-white p-4 rounded shadow"},i={class:"text-lg font-bold text-green-700"};function _(e,p,t,f,u,h){return o(),a("div",l,[r("h2",i,n(t.title),1),c(e.$slots,"default")])}const m=s(d,[["render",_]]);export{m as C};
